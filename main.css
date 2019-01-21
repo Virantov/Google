@@ -1,0 +1,25 @@
+.imput {
+    position: relative;
+    left: 500px
+}
+
+.tipka {
+    position: relative;
+    left: 500px
+}
+
+.slovenija {
+    background-color: lightgray;
+    position: relative;
+    top: 230px;
+    margin: 0px;
+    padding: 5px;
+}
+
+.oglasevanje {
+    background-color: lightgray;
+    position: relative;
+    top: 230px;
+    margin: 0px;
+    padding: 5px;
+    }
